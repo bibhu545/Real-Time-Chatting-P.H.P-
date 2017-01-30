@@ -1,0 +1,21 @@
+.uname{
+	color :  #00F;
+	font-weight: bold;
+	font-size: 15pt;
+	font-family: Georgia, "Times New Roman" , serif;
+}
+.msg{
+	color: #390;
+	font-size: 15pt;
+	font-family: Georgia, "Times New Roman" , serif;
+}
+.button{
+	text-align: center;
+	background-color: #00F;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #000;
+	color: #FFF;
+	padding: 10px;
+	text-decoration: none; 
+}
